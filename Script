@@ -1,0 +1,18 @@
+_G.Thedarklord = true
+while wait() do
+    if _G.Thedarklord == false then
+        return
+end
+if _G.Thedarklord == true then
+ game:GetService("ReplicatedStorage").Remotes.JumpKick:FireServer()
+ game:GetService("ReplicatedStorage").Remotes.JumpKick:FireServer()
+ game:GetService("ReplicatedStorage").Remotes.JumpKick:FireServer()
+ game:GetService("ReplicatedStorage").Remotes.JumpKick:FireServer()
+ game:GetService("ReplicatedStorage").Remotes.JumpKick:FireServer()
+ game:GetService("ReplicatedStorage").Remotes.JumpKick:FireServer()
+ game:GetService("ReplicatedStorage").Remotes.JumpKick:FireServer()
+ game:GetService("ReplicatedStorage").Remotes.Jumpkick:FireServer()
+ game:GetService("ReplicatedStorage").Remotes.JumpKick:FireServer()
+ game:GetService("ReplicatedStorage").Remotes.JumpKick:FireServer()
+ end
+ end
